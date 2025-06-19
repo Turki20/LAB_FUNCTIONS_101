@@ -11,5 +11,6 @@ def printNmubers(num:int):
         r += "\n"
     
     print(r)
-        
+  
+print(printNmubers.__doc__)      
 printNmubers(5)
